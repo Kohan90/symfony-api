@@ -5,7 +5,7 @@ This is a basic Symfony application providing a REST API.
 ## Install dependencies
 
     composer install
-    WW
+    
 ## Run migration
 
     php bin/console doctrine:migrations:migrate
